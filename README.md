@@ -1,1 +1,1 @@
-# Webpack Tailwind Starter
+# Tailwind Image Gallery
